@@ -1,4 +1,9 @@
-# landing_page
+# AppleAcademySimpleWebsite
+I use flutter web technology to create this website
+This website is not responsive
+You can check the website here https://landing-page-orpin-sigma.vercel.app/
+
+
 
 A new Flutter project.
 
